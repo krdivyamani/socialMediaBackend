@@ -1,2 +1,0 @@
-# socialMediaBackend
-> Using FastAPI
